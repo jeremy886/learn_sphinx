@@ -3,6 +3,12 @@ Explore Sphinx-doc
 
 All files are in docs
 
+Information
+********************************************************************************
+
+* `To see the build docs on Read The Docs <https://learn-sphinx-doc.readthedocs.io>`_
+* Required extra packages in requirements.txt
+
 Credit
 ********************************************************************************
 
