@@ -1,0 +1,4 @@
+graphviz
+sphinx-copybutton
+sphinx-math-dollar
+git+git://github.com/bonartm/sphinxcontrib-quizdown
