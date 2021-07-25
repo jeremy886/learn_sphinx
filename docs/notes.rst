@@ -14,6 +14,11 @@ Step
 
 #. pip install Sphinx
 #. sphinx-quickstart
+#. make html
+
+
+Extra
+
 #. sphinx-build -b linkcheck . _build/linkcheck
 
 Tools
@@ -31,3 +36,13 @@ sphinx-autobuild
     sphinx-autobuild docs docs/_build/html
     # or
     sphinx-autobuild . _build/html
+
+
+Publishing
+================================================================================
+
+Read the Docs
+
+#. upload your docs to github
+#. create requirements.txt
+#. import your project on the read the docs
